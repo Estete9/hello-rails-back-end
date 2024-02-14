@@ -7,8 +7,9 @@
 
 # 📗 Table of Contents
 
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello Rails Backend API](#-recipe-app-)
+- [📗 Table of Contents](#-table-of-contents-)
+- [📖 Hello Rails Backend API](#-backend-project-)
+- [📖 Hello Rails Frontend](#-frontend-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -28,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Rails Backend API <a name="about-project"></a>
+# 📖 Hello Rails Backend API <a name="backend-project"></a>
 
 The **Hello Rails Backend API** is a simple backend that serves a random greeting
 
@@ -78,6 +79,9 @@ Check the live demo [here](https://wheres-the-money.onrender.com)
 Check the documentation recording [here](https://www.loom.com/share/2452b6b963424aca8b3f9eec7a48f281)  -->
 
 <!-- GETTING STARTED -->
+# 📖 Hello Rails Frontend (required) <a name="frontend-project"></a>
+
+Please clone this [frontend repo](https://github.com/Estete9/hello-react-front-end)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -90,6 +94,8 @@ In order to run this project you need:
 
 Have a suitable installation of Ruby v3.2.2
 Have a suitable installation of Postgresql v15
+
+Have the Frontend repo [hello-react-front-end](https://github.com/Estete9/hello-rails-back-end.git) cloned.
 
 install Rails
 
