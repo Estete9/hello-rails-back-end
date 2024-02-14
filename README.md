@@ -81,7 +81,7 @@ Check the documentation recording [here](https://www.loom.com/share/2452b6b96342
 <!-- GETTING STARTED -->
 # 📖 Hello Rails Frontend (required) <a name="frontend-project"></a>
 
-Please clone this [frontend repo](https://github.com/Estete9/hello-react-front-end)
+Please clone this [frontend repo](https://github.com/Estete9/hello-react-front-end.git)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
