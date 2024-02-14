@@ -7,9 +7,15 @@
 
 # 📗 Table of Contents
 
+<<<<<<< HEAD
 - [📗 Table of Contents](#-table-of-contents-)
 - [📖 Hello Rails Backend API](#-backend-project-)
 - [📖 Hello Rails Frontend](#-frontend-project-)
+=======
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Hello Rails Backend API](#-recipe-app-)
+- [📖 Hello Rails Frontend](#-recipe-app-)
+>>>>>>> 318bf8c9f3839359ae71dce1f196fd810d46cd74
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -79,7 +85,11 @@ Check the live demo [here](https://wheres-the-money.onrender.com)
 Check the documentation recording [here](https://www.loom.com/share/2452b6b963424aca8b3f9eec7a48f281)  -->
 
 <!-- GETTING STARTED -->
+<<<<<<< HEAD
 # 📖 Hello Rails Frontend (required) <a name="frontend-project"></a>
+=======
+# 📖 Hello Rails Frontend (required) <a name="about-project"></a>
+>>>>>>> 318bf8c9f3839359ae71dce1f196fd810d46cd74
 
 Please clone this [frontend repo](https://github.com/Estete9/hello-react-front-end)
 
