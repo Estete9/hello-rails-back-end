@@ -7,9 +7,21 @@
 
 # 📗 Table of Contents
 
+<<<<<<< HEAD
 - [📗 Table of Contents](#-table-of-contents-)
 - [📖 Hello Rails Backend API](#-backend-project-)
 - [📖 Hello Rails Frontend](#-frontend-project-)
+=======
+<<<<<<< HEAD
+- [📗 Table of Contents](#-table-of-contents-)
+- [📖 Hello Rails Backend API](#-backend-project-)
+- [📖 Hello Rails Frontend](#-frontend-project-)
+=======
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Hello Rails Backend API](#-recipe-app-)
+- [📖 Hello Rails Frontend](#-recipe-app-)
+>>>>>>> 318bf8c9f3839359ae71dce1f196fd810d46cd74
+>>>>>>> 04120c29172c33cedc43702e0856309db0b67a5e
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
